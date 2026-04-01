@@ -487,7 +487,9 @@ fieldset[disabled] .btn-theme {
 }
 
 .footer .footer-list {
+  display: inline-block;
   margin-bottom: 0;
+  text-align: right;
 }
 
 .footer .footer-list-item {
